@@ -1,0 +1,6 @@
+Added Component: Designator=J106(Header 1x2 male)
+Added Component: Designator=J107(Header 1x4 male)
+Added Component: Designator=J108(Header 2x5 male 1.27mm)
+Added Member To Class: ClassName=ETHERNET Member=Component J106 349873-345-34_1
+Added Member To Class: ClassName=ETHERNET Member=Component J107 349873-345-34_3
+Added Member To Class: ClassName=ETHERNET Member=Component J108 123-34-2234_11_1

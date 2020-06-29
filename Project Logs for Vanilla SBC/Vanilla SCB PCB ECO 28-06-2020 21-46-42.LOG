@@ -1,0 +1,4 @@
+Added Component: Designator=J105(USB A Right angle)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1696534"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ETHERNET Member=Component J105 USB A Receptacle

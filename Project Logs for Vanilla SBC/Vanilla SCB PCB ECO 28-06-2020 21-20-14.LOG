@@ -1,0 +1,36 @@
+Added Component: Designator=J100(47219-2001)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2614940"; VariantName = "[No Variations]"
+Added Component: Designator=J101(RJ45 8P8C LED & magnetics)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RJMG1BD3B8K1ANR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J102(USB micro)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1568022"; VariantName = "[No Variations]"
+Added Component: Designator=J103(USB micro)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1568022"; VariantName = "[No Variations]"
+Added Component: Designator=J104(Header 2x16 male)
+Added Component: Designator=U100(ATSAMS70Q21A-AN)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2484397"; VariantName = "[No Variations]"
+Added Component: Designator=U101(IS42S16320F-7TL)
+Add component (AddParameter): Name = "Clock cycle time"; Value = "7.5 ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock frequency"; Value = "143 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "706-1450-5-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U102(KSZ8061RNBW)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "KSZ8061RNBW-CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U103(FT231XQ-R)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2081330"; VariantName = "[No Variations]"
+Added Component: Designator=U104(FT231XQ-R)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2081330"; VariantName = "[No Variations]"
+Added Class: Name=CPU POWER
+Added Class: Name=DRAM
+Added Class: Name=ETHERNET
+Added Room: Name=CPU POWER
+Added Room: Name=DRAM
+Added Room: Name=ETHERNET
