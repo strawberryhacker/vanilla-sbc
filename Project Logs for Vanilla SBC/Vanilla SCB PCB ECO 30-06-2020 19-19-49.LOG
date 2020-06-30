@@ -1,0 +1,133 @@
+Removed Member From Class: ClassName=CPU POWER Member=C126
+Removed Member From Class: ClassName=CPU SIGNALS Member=C126
+Removed Member From Class: ClassName=CPU POWER Member=C135
+Removed Member From Class: ClassName=CPU SIGNALS Member=C135
+Removed Member From Class: ClassName=DRAM Member=C135
+Removed Member From Class: ClassName=ETHERNET Member=C151
+Removed Member From Class: ClassName=SD CARD Member=C155
+Removed Member From Class: ClassName=SD CARD Member=C156
+Removed Member From Class: ClassName=USB Member=C156
+Change Net Name : Old Net Name=DRAM_A0 New Net Name=NetR104_2
+Change Net Name : Old Net Name=DRAM_A1 New Net Name=NetR106_2
+Change Net Name : Old Net Name=DRAM_A2 New Net Name=NetR108_2
+Change Net Name : Old Net Name=DRAM_A3 New Net Name=NetR110_2
+Change Net Name : Old Net Name=DRAM_A4 New Net Name=NetR112_2
+Change Net Name : Old Net Name=DRAM_A5 New Net Name=NetR114_2
+Change Net Name : Old Net Name=DRAM_A6 New Net Name=NetR116_2
+Change Net Name : Old Net Name=DRAM_A7 New Net Name=NetR118_2
+Change Net Name : Old Net Name=DRAM_A8 New Net Name=NetR120_2
+Change Net Name : Old Net Name=DRAM_A9 New Net Name=NetR122_2
+Change Net Name : Old Net Name=DRAM_A10 New Net Name=NetR124_2
+Change Net Name : Old Net Name=DRAM_A11 New Net Name=NetR126_2
+Change Net Name : Old Net Name=DRAM_A12 New Net Name=NetR128_2
+Change Net Name : Old Net Name=DRAM_BA0 New Net Name=NetR141_2
+Change Net Name : Old Net Name=DRAM_BA1 New Net Name=NetR142_2
+Change Net Name : Old Net Name=DRAM_CAS New Net Name=NetR135_2
+Change Net Name : Old Net Name=DRAM_CKE New Net Name=NetR139_2
+Change Net Name : Old Net Name=DRAM_CLK New Net Name=NetR137_2
+Change Net Name : Old Net Name=DRAM_CS New Net Name=NetR103_1
+Change Net Name : Old Net Name=DRAM_D0 New Net Name=NetR105_1
+Change Net Name : Old Net Name=DRAM_D1 New Net Name=NetR107_1
+Change Net Name : Old Net Name=DRAM_D2 New Net Name=NetR109_1
+Change Net Name : Old Net Name=DRAM_D3 New Net Name=NetR111_1
+Change Net Name : Old Net Name=DRAM_D4 New Net Name=NetR113_1
+Change Net Name : Old Net Name=DRAM_D5 New Net Name=NetR115_1
+Change Net Name : Old Net Name=DRAM_D6 New Net Name=NetR117_1
+Change Net Name : Old Net Name=DRAM_D7 New Net Name=NetR119_1
+Change Net Name : Old Net Name=DRAM_D8 New Net Name=NetR121_1
+Change Net Name : Old Net Name=DRAM_D9 New Net Name=NetR123_1
+Change Net Name : Old Net Name=DRAM_D10 New Net Name=NetR125_1
+Change Net Name : Old Net Name=DRAM_D11 New Net Name=NetR127_1
+Change Net Name : Old Net Name=DRAM_D12 New Net Name=NetR129_1
+Change Net Name : Old Net Name=DRAM_D13 New Net Name=NetR130_1
+Change Net Name : Old Net Name=DRAM_D14 New Net Name=NetR131_1
+Change Net Name : Old Net Name=DRAM_D15 New Net Name=NetR133_1
+Change Net Name : Old Net Name=DRAM_DQMH New Net Name=NetR138_1
+Change Net Name : Old Net Name=DRAM_DQML New Net Name=NetR140_1
+Change Net Name : Old Net Name=DRAM_RAS New Net Name=NetR134_2
+Change Net Name : Old Net Name=DRAM_WE New Net Name=NetR136_2
+Change Net Name : Old Net Name=NetR104_1 New Net Name=DRAM_A0
+Change Net Name : Old Net Name=NetR105_2 New Net Name=DRAM_D0
+Change Net Name : Old Net Name=NetR106_1 New Net Name=DRAM_A1
+Change Net Name : Old Net Name=NetR107_2 New Net Name=DRAM_D1
+Change Net Name : Old Net Name=NetR108_1 New Net Name=DRAM_A2
+Change Net Name : Old Net Name=NetR109_2 New Net Name=DRAM_D2
+Change Net Name : Old Net Name=NetR110_1 New Net Name=DRAM_A3
+Change Net Name : Old Net Name=NetR111_2 New Net Name=DRAM_D3
+Change Net Name : Old Net Name=NetR112_1 New Net Name=DRAM_A4
+Change Net Name : Old Net Name=NetR113_2 New Net Name=DRAM_D4
+Change Net Name : Old Net Name=NetR114_1 New Net Name=DRAM_A5
+Change Net Name : Old Net Name=NetR115_2 New Net Name=DRAM_D5
+Change Net Name : Old Net Name=NetR116_1 New Net Name=DRAM_A6
+Change Net Name : Old Net Name=NetR117_2 New Net Name=DRAM_D6
+Change Net Name : Old Net Name=NetR118_1 New Net Name=DRAM_A7
+Change Net Name : Old Net Name=NetR119_2 New Net Name=DRAM_D7
+Change Net Name : Old Net Name=NetR120_1 New Net Name=DRAM_A8
+Change Net Name : Old Net Name=NetR121_2 New Net Name=DRAM_D8
+Change Net Name : Old Net Name=NetR122_1 New Net Name=DRAM_A9
+Change Net Name : Old Net Name=NetR123_2 New Net Name=DRAM_D9
+Change Net Name : Old Net Name=NetR124_1 New Net Name=DRAM_A10
+Change Net Name : Old Net Name=NetR125_2 New Net Name=DRAM_D10
+Change Net Name : Old Net Name=NetR126_1 New Net Name=DRAM_A11
+Change Net Name : Old Net Name=NetR127_2 New Net Name=DRAM_D11
+Change Net Name : Old Net Name=NetR128_1 New Net Name=DRAM_A12
+Change Net Name : Old Net Name=NetR129_2 New Net Name=DRAM_D12
+Change Net Name : Old Net Name=NetR130_2 New Net Name=DRAM_D13
+Change Net Name : Old Net Name=NetR131_2 New Net Name=DRAM_D14
+Change Net Name : Old Net Name=NetR132_1 New Net Name=DRAM_CS
+Change Net Name : Old Net Name=NetR133_2 New Net Name=DRAM_D15
+Change Net Name : Old Net Name=NetR134_1 New Net Name=DRAM_RAS
+Change Net Name : Old Net Name=NetR135_1 New Net Name=DRAM_CAS
+Change Net Name : Old Net Name=NetR136_1 New Net Name=DRAM_WE
+Change Net Name : Old Net Name=NetR137_1 New Net Name=DRAM_CLK
+Change Net Name : Old Net Name=NetR138_2 New Net Name=DRAM_DQMH
+Change Net Name : Old Net Name=NetR139_1 New Net Name=DRAM_CKE
+Change Net Name : Old Net Name=NetR140_2 New Net Name=DRAM_DQML
+Change Net Name : Old Net Name=NetR141_1 New Net Name=DRAM_BA0
+Change Net Name : Old Net Name=NetR142_1 New Net Name=DRAM_BA1
+Added Member To Class: ClassName=CPU POWER Member=Component C102 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C103 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C105 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C107 02016D104KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C109 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C110 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C111 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C112 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C113 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C114 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C115 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C116 04023C103KAT2A
+Added Member To Class: ClassName=CPU POWER Member=Component C117 04023C103KAT2A
+Added Member To Class: ClassName=CPU SIGNALS Member=Component C118 04023C103KAT2A
+Added Member To Class: ClassName=CPU SIGNALS Member=Component C119 04023C103KAT2A
+Added Member To Class: ClassName=DRAM Member=Component C120 04023C103KAT2A
+Added Member To Class: ClassName=DRAM Member=Component C121 04023C103KAT2A
+Added Member To Class: ClassName=DRAM Member=Component C122 04023C103KAT2A
+Added Member To Class: ClassName=DRAM Member=Component C123 04023C103KAT2A
+Added Member To Class: ClassName=DRAM Member=Component C124 04023C103KAT2A
+Added Member To Class: ClassName=DRAM Member=Component C125 04023C103KAT2A
+Added Member To Class: ClassName=DRAM Member=Component C127 04023C103KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C128 02016D104KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C129 04023C103KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C130 04023C103KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C131 02016D104KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C132 04023C103KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C133 04023C103KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C134 02016D104KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C136 02016D104KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C137 04023C103KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C138 04023C103KAT2A
+Added Member To Class: ClassName=ETHERNET Member=Component C139 04023C103KAT2A
+Added Member To Class: ClassName=USB Member=Component C141 04023C103KAT2A
+Added Member To Class: ClassName=USB Member=Component C142 02016D104KAT2A
+Added Member To Class: ClassName=USB Member=Component C143 04023C103KAT2A
+Added Member To Class: ClassName=USB Member=Component C144 04023C103KAT2A
+Added Member To Class: ClassName=USB Member=Component C145 04023C103KAT2A
+Added Member To Class: ClassName=USB Member=Component C146 04023C103KAT2A
+Added Member To Class: ClassName=USB Member=Component C147 04023C103KAT2A
+Added Member To Class: ClassName=USB Member=Component C148 02016D104KAT2A
+Added Member To Class: ClassName=USB Member=Component C149 04023C103KAT2A
+Added Member To Class: ClassName=USB Member=Component C150 04023C103KAT2A
+Added Member To Class: ClassName=USB Member=Component C152 04023C103KAT2A
+Added Member To Class: ClassName=SD CARD Member=Component C153 02016D104KAT2A
+Added Member To Class: ClassName=SD CARD Member=Component C154 04023C103KAT2A

@@ -1,0 +1,78 @@
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR103_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR104_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR105_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR106_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR107_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR108_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR109_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR110_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR111_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR112_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR113_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR114_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR115_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR116_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR117_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR118_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR119_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR120_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR121_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR122_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR123_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR124_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR125_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR126_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR127_1
+Removed Member From Class: ClassName=DRAM_ADDR Member=NetR128_2
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR129_1
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR130_1
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR131_1
+Removed Member From Class: ClassName=DRAM_DATA Member=NetR133_1
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR134_2
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR135_2
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR136_2
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR137_2
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR138_1
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR139_2
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR140_1
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR141_2
+Removed Member From Class: ClassName=DRAM_CTRL Member=NetR142_2
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A0
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A1
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A2
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A3
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A4
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A5
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A6
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A7
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A8
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A9
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A10
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A11
+Added Member To Class: ClassName=DRAM_ADDR Member=Wire DRAM_A12
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_BA0
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_BA1
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_CAS
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_CKE
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_CLK
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_CS
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D0
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D1
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D2
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D3
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D4
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D5
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D6
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D7
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D8
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D9
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D10
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D11
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D12
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D13
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D14
+Added Member To Class: ClassName=DRAM_DATA Member=Wire DRAM_D15
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_DQMH
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_DQML
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_RAS
+Added Member To Class: ClassName=DRAM_CTRL Member=Wire DRAM_WE
