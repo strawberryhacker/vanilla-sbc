@@ -5,3 +5,7 @@ This is my new ARM Cortex-M7 board capable of running up to 300 MHz and features
 <img src="https://github.com/strawberryhacker/vanilla-sbc/blob/master/Graphics/top_view.PNG" width="700">
 
 <img src="https://github.com/strawberryhacker/vanilla-sbc/blob/master/Graphics/bottom_view.PNG" width="700">
+
+<img src="https://github.com/strawberryhacker/vanilla-sbc/blob/master/Graphics/top_layer.PNG" width="1000">
+
+<img src="https://github.com/strawberryhacker/vanilla-sbc/blob/master/Graphics/bottom_layer.PNG" width="1000">
