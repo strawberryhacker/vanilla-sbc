@@ -1,0 +1,28 @@
+Added Pin To Net: NetName=GND Pin=J102-37
+Added Pin To Net: NetName=+3V3 Pin=J102-38
+Added Pin To Net: NetName=GND Pin=J102-39
+Added Pin To Net: NetName=+3V3 Pin=J102-40
+Added Pin To Net: NetName=NetJ102_29 Pin=J102-29
+Added Pin To Net: NetName=NetJ102_29 Pin=U100-21
+Added Net: Name=NetJ102_29
+Added Pin To Net: NetName=NetJ102_30 Pin=J102-30
+Added Pin To Net: NetName=NetJ102_30 Pin=U100-20
+Added Net: Name=NetJ102_30
+Added Pin To Net: NetName=NetJ102_31 Pin=J102-31
+Added Pin To Net: NetName=NetJ102_31 Pin=U100-94
+Added Net: Name=NetJ102_31
+Added Pin To Net: NetName=NetJ102_32 Pin=J102-32
+Added Pin To Net: NetName=NetJ102_32 Pin=U100-97
+Added Net: Name=NetJ102_32
+Added Pin To Net: NetName=NetJ102_33 Pin=J102-33
+Added Pin To Net: NetName=NetJ102_33 Pin=U100-98
+Added Net: Name=NetJ102_33
+Added Pin To Net: NetName=NetJ102_34 Pin=J102-34
+Added Pin To Net: NetName=NetJ102_34 Pin=U100-99
+Added Net: Name=NetJ102_34
+Added Pin To Net: NetName=NetJ102_35 Pin=J102-35
+Added Pin To Net: NetName=NetJ102_35 Pin=U100-100
+Added Net: Name=NetJ102_35
+Added Pin To Net: NetName=NetJ102_36 Pin=J102-36
+Added Pin To Net: NetName=NetJ102_36 Pin=U100-101
+Added Net: Name=NetJ102_36
