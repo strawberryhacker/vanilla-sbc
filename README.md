@@ -1,6 +1,6 @@
 # Vanilla SBC
 
-This is my new ARM Cortex-M7 board capable of running up to 300 MHz and features up to 256 MB of DRAM. It is intended to run the Vanilla OS connected to internet. Thats why I didn't bother routing the reset of the pins. Btw, I hate that RAM chip...
+This is my new ARM Cortex-M7 board capable of running up to 300 MHz and features up to 256 MB of DRAM. It is intended to be equipped with the Vanilla operating system.
 
 <img src="https://github.com/strawberryhacker/vanilla-sbc/blob/master/Graphics/top_view.PNG" width="700">
 
@@ -9,3 +9,7 @@ This is my new ARM Cortex-M7 board capable of running up to 300 MHz and features
 <img src="https://github.com/strawberryhacker/vanilla-sbc/blob/master/Graphics/top_layer.PNG" width="1000">
 
 <img src="https://github.com/strawberryhacker/vanilla-sbc/blob/master/Graphics/bottom_layer.PNG" width="1000">
+
+<img src="https://github.com/strawberryhacker/vanilla-sbc/blob/master/Graphics/vcc_layer.PNG" width="1000">
+
+<img src="https://github.com/strawberryhacker/vanilla-sbc/blob/master/Graphics/gnd_layer.PNG" width="1000">
